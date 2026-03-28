@@ -1,0 +1,18 @@
+=================================================
+     MY OPEN SOURCE MANIFESTO                   
+     Generated on: 28 March 2026                        
+=================================================
+
+ I believe in the power of open source software.
+ Every day I use Git — a tool built freely by
+ people who believed that knowledge should be shared,
+ not locked away. To me, freedom means collaboration.
+
+ Open source taught me that the best software is
+ built when people collaborate without boundaries.
+ That is why I would build a free coding tool for students and share it
+ freely with the world — because standing on the
+ shoulders of giants means lifting others too.
+
+ Signed: Yashita Nayyar | Roll: 24BCE10025      
+=================================================
